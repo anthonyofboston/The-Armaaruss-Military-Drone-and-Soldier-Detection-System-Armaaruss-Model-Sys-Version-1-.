@@ -738,7 +738,7 @@ speech.rate = 0.9;
 speech.pitch = 0;
 
 
-speech.voice = voices[0];
+speech.voice = voices[3];
 
 
 speechSynthesis.speak(speech);
@@ -783,7 +783,7 @@ speech1.rate = 0.9;
 speech1.pitch = 0;
 
 
-speech1.voice = voices1[0];
+speech1.voice = voices1[3];
 
 
 speechSynthesis.speak(speech1);
